@@ -8,4 +8,13 @@ Android app called 'miniLens' which is a mini version of Google Lens. Like the G
 2. Add it to your Firebase Console
 3. Magic !!!
 
+# Screenshot
+
+![image01](https://raw.githubusercontent.com/fahim9778/miniLens/master/app/src/main/res/drawable/app_example_ss.jpg)
+
+# Libraries
+
+* [CameraKit Android](https://github.com/CameraKit/camerakit-android)
+* [FAB Progress to show progress](https://github.com/JorgeCastilloPrz/FABProgressCircle)
+
 Built with ❤️ by [@fahim9778](https://github.com/fahim9778)
